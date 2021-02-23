@@ -38,9 +38,10 @@ import org.springframework.security.config.annotation.web.configuration.EnableWe
 @EnableScheduling
 @EnableConfigurationProperties({VerificationApplicationConfig.class})
 public class VerificationApplication {
+  
 
   /**
-   * The main Method.
+   * The better  main Method.
    *
    * @param args the args for the main method
    */
